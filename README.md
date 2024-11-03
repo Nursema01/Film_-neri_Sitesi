@@ -1,4 +1,4 @@
-# Film_-Öneri_Sitesi
+# Film_Sitesi
 -Bu proje, kullanıcılara film önerileri sunan bir web uygulamasıdır. Kullanıcılar favori filmlerini seçebilir ve öneriler alarak keyifle izleyebilir.
 ## Kullanım
 -Web siteyi açın üst ksıımda film türleri bulunmakta 
